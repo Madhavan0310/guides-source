@@ -1,6 +1,6 @@
 <!-- Heads up! This is a generated file, do not edit directly. You can find the source at https://github.com/ember-learn/super-rentals-tutorial/blob/master/src/markdown/tutorial/part-2/index.md -->
 
-Hooray, you've made it to the second part of the tutorial! In the following sections, we'll build on the core concepts that we learned in the first part of the tutorial.
+Hoora, you've made it to the second part of the tutorial! In the following sections, we'll build on the core concepts that we learned in the first part of the tutorial.
 
 Along the way, we'll also add some new features to our Super Rentals app. By the end of this section, we'll have implemented some search functionality and refactored a good bit of our code to use some new Ember concepts
 
